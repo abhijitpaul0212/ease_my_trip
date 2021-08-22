@@ -1,0 +1,103 @@
+1629621373330	geckodriver	INFO	geckodriver 0.21.0
+1629621373375	geckodriver	INFO	Listening on 127.0.0.1:50704
+1629621384598	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhijit\\AppData\\Local\\Temp\\rust_mozprofile.KRr4g9VUmWFg"
+1629621501418	Marionette	INFO	Marionette enabled
+[GFX1-]: Killing GPU process due to IPC reply timeout
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to create remote compositor
+[Parent 9420, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:402
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[Parent 9420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  2
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  2
+1629621598461	Marionette	INFO	Listening on port 64305
+1629621732952	geckodriver	INFO	geckodriver 0.21.0
+1629621733213	geckodriver	INFO	Listening on 127.0.0.1:63365
+1629621737129	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhijit\\AppData\\Local\\Temp\\rust_mozprofile.3HSAVrNrVyeU"
+1629621765808	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629621820312	Marionette	INFO	Listening on port 13034
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1629623639699	Marionette	INFO	Stopped listening on port 13034
+JavaScript error: chrome://browser/content/browser-customization.js, line 166: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1629628247279	geckodriver	INFO	geckodriver 0.21.0
+1629628247310	geckodriver	INFO	Listening on 127.0.0.1:41896
+1629628250311	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhijit\\AppData\\Local\\Temp\\rust_mozprofile.aKtkxPlE7wiE"
+1629628250965	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629628257141	Marionette	INFO	Listening on port 41904
+1629628257730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.easemytrip.com/Multicity/EMTAnaytics.js?a=7412e, line 72: ReferenceError: $ is not defined
+JavaScript error: https://www.easemytrip.com/, line 3219: TypeError: btn is null
+JavaScript error: https://www.easemytrip.com/, line 3260: TypeError: dots[(slideIndex - 1)] is undefined
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1629629819150	geckodriver	INFO	geckodriver 0.21.0
+1629629819161	geckodriver	INFO	Listening on 127.0.0.1:42027
+1629629822190	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhijit\\AppData\\Local\\Temp\\rust_mozprofile.mUkW125lhnRx"
+1629629822906	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629629828068	Marionette	INFO	Listening on port 42035
+1629629828412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.easemytrip.com/Multicity/EMTAnaytics.js?a=7412e, line 72: ReferenceError: $ is not defined
+JavaScript error: https://www.easemytrip.com/, line 3219: TypeError: btn is null
+JavaScript error: https://www.easemytrip.com/, line 3260: TypeError: dots[(slideIndex - 1)] is undefined
+1629629835943	Marionette	INFO	Stopped listening on port 42035
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1629630969078	geckodriver	INFO	geckodriver 0.21.0
+1629630969093	geckodriver	INFO	Listening on 127.0.0.1:45869
+1629630972178	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\abhijit\\AppData\\Local\\Temp\\rust_mozprofile.R8PmkJvnu63F"
+1629630974956	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1629630990448	Marionette	INFO	Listening on port 45877
+1629630990933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.easemytrip.com/Multicity/EMTAnaytics.js?a=7412e, line 72: ReferenceError: $ is not defined
+JavaScript error: https://www.easemytrip.com/, line 3219: TypeError: btn is null
+JavaScript error: https://www.easemytrip.com/, line 3260: TypeError: dots[(slideIndex - 1)] is undefined
+1629631003528	Marionette	INFO	Stopped listening on port 45877
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
