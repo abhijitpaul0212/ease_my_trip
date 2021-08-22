@@ -70,7 +70,7 @@ def process_data(data):
 def test_easemytrip_select_departure_date(driver):
     """
     Test case for the scenario of selecting lowest fare departure date
-    :param driver:
+    :param driver: driver object
     :return:
     """
     print("Program begins...")
